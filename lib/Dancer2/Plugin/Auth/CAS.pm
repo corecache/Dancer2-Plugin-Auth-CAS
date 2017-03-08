@@ -1,4 +1,6 @@
 package Dancer2::Plugin::Auth::CAS;
+
+# ABSTRACT: Dancer2::Plugin::Auth::CAS provides CAS single-sign-on authentication for Dancer2
  
 use strict;
 use warnings;
